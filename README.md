@@ -1,11 +1,3 @@
-# Iridium
-1. What is Iridium?
-    - Simple, it's a client to have fun with the destruction of the Minecraft community.
-2. Developed in what language?
-    - Java.
-3. Is the Founder gay? (lol)
-   - Yes.
-
 ## Credits
 Iridium client was developed by [Danilo](https://github.com/Azureeee/) and [Lorenzo](https://github.com/SaylonJ), using the custom fonts API made by [Halalaboos](https://github.com/Huzuni/).
 
